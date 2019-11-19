@@ -22,7 +22,7 @@ Your scripts will have to work accordingly to your Terminal -->
 #!/bin/bash
 ```
 
-Before your .sh script
+At the beginning of your .sh file
 
 ## Goal of the workshop : 
 
