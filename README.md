@@ -9,7 +9,7 @@ With no doubt (and completely subjectively) \*nix OSes are the best, and i'll sh
 
 ## What is a dotfile and how to use them ?
 
-Dotfiles, typically .bashrc are used to store configuration files about your IDE, Text editor, Terminal, etc
+Dotfiles, typically the .bashrc are used to store configuration files about your IDE, Text editor, Terminal, etc
 
 The problem is migrating these configs around several machines can be annoying and time-consuming, so i will show how to save them and retrieve them from *the internet*.
 
