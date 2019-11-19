@@ -2,7 +2,7 @@
 
 ## UNIX-like systems
 
-Linux distros and MacOS are Unix-like, or \*nix systems, they follow the basic principles formalised by the AT&T UNIX operating system.
+Linux distros and MacOS are Unix-like (\*nix systems), they follow the basic principles formalised by the AT&T UNIX operating system.
 
 With no doubt (and completely subjectively) \*nix OSes are the best, and i'll show *some* cool stuff about it
 (CLI's, Dotfiles, Scripting, heck maybe even vim!)
