@@ -2,14 +2,14 @@
 
 ## UNIX-like systems
 
-Linux distros and MacOS are Unix-like, or \*nix systems, they follow the basic principles formalised by the AT&T UNIX operating system.
+Linux distros and MacOS are Unix-like (\*nix systems), they follow the basic principles formalised by the AT&T UNIX operating system.
 
 With no doubt (and completely subjectively) \*nix OSes are the best, and i'll show *some* cool stuff about it
 (CLI's, Dotfiles, Scripting, heck maybe even vim!)
 
 ## What is a dotfile and how to use them ?
 
-Dotfiles, typically .bashrc are used to store configuration files about your IDE, Text editor, Terminal, etc
+Dotfiles, typically the .bashrc are used to store configuration files about your IDE, Text editor, Terminal, etc
 
 The problem is migrating these configs around several machines can be annoying and time-consuming, so i will show how to save them and retrieve them from *the internet*.
 
@@ -22,7 +22,7 @@ Your scripts will have to work accordingly to your Terminal -->
 #!/bin/bash
 ```
 
-Before your .sh script
+At the beginning of your .sh file
 
 ## Goal of the workshop : 
 
