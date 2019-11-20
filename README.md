@@ -27,7 +27,8 @@ At the beginning of your .sh file
 ## Goal of the workshop : 
 
 Save your configurations with a git bare repository and use shell scripts to fool around!
-
+One of the good ways to start backing up dotfiles : 
+[It's on me, don't say thanks](https://harfangk.github.io/2016/09/18/manage-dotfiles-with-a-git-bare-repository.html)
 ### Some more fun with shell scripts : 
 
 1. Hello world
