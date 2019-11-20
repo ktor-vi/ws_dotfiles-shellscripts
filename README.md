@@ -23,6 +23,11 @@ Your scripts will have to work accordingly to your Terminal -->
 ```
 
 At the beginning of your .sh file
+**Don't forget to set the script as executable :**
+
+```
+chmod +x yourscript.sh
+```  
 
 ## Goal of the workshop : 
 
