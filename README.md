@@ -16,17 +16,24 @@ The problem is migrating these configs around several machines can be annoying a
 ## What is a shell script ?
 A shell script is a program designed to be run be a unix command-line interpreter (Your Terminal)
 
-Your scripts will have to work accordingly to your Terminal --> 
+Your scripts will have to work accordingly to your Terminal :
 
 ```
 #!/bin/bash
 ```
 
 At the beginning of your .sh file
+
 **Don't forget to set the script as executable :**
 
 ```
 chmod +x yourscript.sh
+```  
+
+*And to launch it with :*
+
+```
+./yourscript.sh
 ```  
 
 ## Goal of the workshop : 
